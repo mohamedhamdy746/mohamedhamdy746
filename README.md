@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hello Worl,I'm Mohamed Hamdy:</b></h1>
+<h1 align= "center"><b>Hello World,I'm Mohamed Hamdy:</b></h1>
 
 - 🎓 Recent computer science graduate from Ain Shams University, Full stack web developer
 - :mailbox: You can reach me with the links below
