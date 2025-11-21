@@ -31,6 +31,3 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
-
-
-⭐️ From [AdamAlston](https://github.com/adamalston)
