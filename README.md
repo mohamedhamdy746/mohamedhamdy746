@@ -20,18 +20,18 @@
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Node.JS](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=181717)
+![Node.JS](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Next.JS](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=for-the-badge&logo=jira-software&logoColor=white&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 
 
