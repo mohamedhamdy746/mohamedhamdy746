@@ -30,8 +30,7 @@
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&style=for-the-badge&logo=tailwindcss)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=for-the-badge&logo=jira-software&logoColor=white&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux)
 
 
 
