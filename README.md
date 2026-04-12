@@ -1,15 +1,30 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://giphy.com/gifs/digg-soccer-world-cup-get-on-this-gVlgj80ZLp9yo" width="600"/>
+  <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="600"/>
 </p>
 
-<h1 align= "center"><b>Hello World,I'm Mohamed Hamdy:</b></h1>
+<h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
+<h3 align="center">Full Stack Web Developer | FCIS Graduate</h3>
 
-- 🎓 FCIS Graduate, Full stack web developer
-- :mailbox: You can reach me with the links below
+<p align="center">
+  Passionate about building scalable web applications and solving real-world problems 💡
+</p>
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhamdy0702@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamdy70/)
 <br/>
+
+<p align="center">
+  <a href="mailto:mohamedhamdy0702@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/m-hamdy70/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  🎓 FCIS Graduate &nbsp; | &nbsp; 💻 Full Stack Developer  
+</p>
 
 ## 🛠️ Technical Stack
 <br/>
