@@ -5,8 +5,10 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhamdy0702@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamdy70/)
+<br/>
 
 ## 🛠️ Technical Stack
+<br/>
  
 ### Frontend Development
 <div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
@@ -36,6 +38,8 @@
  
 <div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JS"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TS"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/>
