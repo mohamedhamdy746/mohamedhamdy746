@@ -41,7 +41,7 @@
  
 <div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=c++" height="40" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="CPP"/>
   <img src="https://skillicons.dev/icons?i=c#" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JS"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TS"/>
