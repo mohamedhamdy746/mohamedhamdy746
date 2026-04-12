@@ -25,6 +25,8 @@
 <p align="center">
   🎓 FCIS Graduate &nbsp; | &nbsp; 💻 Full Stack Developer  
 </p>
+<br/>
+
 
 ## 🛠️ Technical Stack
 <br/>
