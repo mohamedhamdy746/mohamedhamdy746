@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+</p>
+
 <h1 align= "center"><b>Hello World,I'm Mohamed Hamdy:</b></h1>
 
 - 🎓 FCIS Graduate, Full stack web developer
@@ -42,7 +46,6 @@
 <div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="CPP"/>
-  <img src="https://skillicons.dev/icons?i=c%23" height="40" alt="Csharp"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JS"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TS"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
