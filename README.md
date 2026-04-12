@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
+<h1 align="center">Hi, I'm Mohamed Hamdy</h1>
 <h3 align="center">Full Stack Web Developer | FCIS Graduate</h3>
 
 <p align="center">
