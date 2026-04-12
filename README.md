@@ -6,31 +6,52 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhamdy0702@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamdy70/)
 
-##### Languages I use
+## 🛠️ Technical Stack
+ 
+### Frontend Development
+<div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+</div>
+<br/>
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+### Backend Development
+<div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma"/>
+</div>
+<br/>
 
-##### Some of the technologies I have worked with
+### Programming Languages
+ 
+<div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/>
+</div>
+<br/>
 
-![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=181717)
-![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.JS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&style=for-the-badge&logo=tailwindcss)
-![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux)
+### DevOps & Tools
+<div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim"/>
+</div>
 
 
 
