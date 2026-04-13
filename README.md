@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Hamdy</h1>
-<h3 align="center">Full Stack Web Developer | FCIS Graduate</h3>
+<h3 align="center">Full Stack Web Developer | FCIS-ASU Graduate</h3>
 
 <p align="center">
   Passionate about building scalable web applications and solving real-world problems 💡
