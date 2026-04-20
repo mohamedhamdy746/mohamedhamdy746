@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpmanByd2I2ano5bHEwMnprbXg3OGwzdGlwbmx1eXl2YjJub2FjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600"/>
+  
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Hamdy</h1>
@@ -42,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="Next"/>
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular"/>
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue"/>
+
 
 </div>
 <br/>
@@ -50,6 +53,9 @@
 <div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="Nest.js"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
