@@ -34,18 +34,14 @@
  
 ### Frontend Development
 <div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="Next"/>
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular"/>
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue"/>
-
-
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
 </div>
 <br/>
 
@@ -56,11 +52,12 @@
   <img src="https://skillicons.dev/icons?i=nest" height="40" alt="Nest.js"/>
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/>
 </div>
 <br/>
 
@@ -69,6 +66,7 @@
 <div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="CPP"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JS"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TS"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
@@ -81,6 +79,8 @@
 <div align="left" style="display: flex; flex-wrap: wrap; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
